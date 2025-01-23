@@ -8,11 +8,11 @@ Mappings:
       prod: m1.large
   AMIMap:
     us-east-1:
-      dev: ami-006dcf34c09e50022
-      prod: ami-006dcf34c09e50022
+      dev: ami-043a5a82b6cf98947
+      prod: ami-043a5a82b6cf98947
     us-west-1:
-      dev: ami-060d3509162bcc386
-      prod: ami-060d3509162bcc386
+      dev: ami-043a5a82b6cf98947
+      prod: ami-043a5a82b6cf98947
 Resources:
   MyEC2Instance:
     Type: AWS::EC2::Instance
