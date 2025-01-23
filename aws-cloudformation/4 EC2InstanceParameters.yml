@@ -3,7 +3,7 @@ Mappings:
     us-east-1:
       dev: t2.micro
       prod: m1.small
-    us-west-1: 
+    us-east-2: 
       dev: m1.small
       prod: m1.large
   AMIMap:
